@@ -1,5 +1,6 @@
 public class Main {
 	public static void main(String[] args) {
-		println("OK!");
+		System.out.println("OK!");
+		System.out.println("Nueva impresión");
 	}
 }
