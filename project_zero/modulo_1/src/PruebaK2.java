@@ -1,10 +1,11 @@
-public class Prueba {
+public class PruebaK2 {
+	
 	private String nombre;
 	private String ubicacion;
 	
 
 	public static void main(String[] args) {
-		println("OK!");
+		System.out.println("OK!");
 	}
 
 }
